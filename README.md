@@ -1,28 +1,49 @@
-# HI
-# ⚽ Injury Risk Prediction App
+# 👋 Hi, I'm ADEM SRASRA
 
-An AI-powered tool that predicts football players' injury risk based on historical data and player statistics.  
-Built as a personal project to explore the use of machine learning and web development in sports performance analysis.
+🎓 I'm an **IT Systems Engineering student** with a strong passion for **Web Development**, **Design**, and **Artificial Intelligence**.  
+I love creating simple yet smart applications that combine creativity with technology.
 
-## 🎯 Goal
-The aim of this project is to help coaches and players estimate injury risk using data-driven insights — 
-making training safer and more efficient.
+---
 
-## 💡 Features
-- Simple web interface (HTML + CSS)
-- Local database to store player data
-- Displays injury risk as color-coded score
-- No external API — fully local setup
-- Basic AI model for prediction
+## 🚀 About Me
+- 💻 Exploring **AI**, **machine learning**, and **data-driven apps**
+- 🌐 Enjoy building **web apps** and improving **user interfaces**
+- 🧠 Constantly learning new technologies and improving my problem-solving skills
+- ⚽ Passionate about **sports tech** — recently built an **Injury Risk Prediction App** for football players
+- 🧩 I enjoy experimenting, designing, and learning how systems connect together
 
-## 🧠 Tech Stack
-- **Languages:** Python, HTML, CSS  
-- **Frameworks:** (Optional: Flask / FastAPI if you used one)  
-- **Database:** SQLite  
-- **ML Libraries:** scikit-learn, pandas, numpy  
+---
 
-## ⚙️ Installation & Setup
+## 🧰 Tech & Tools
+- **Languages:** Python, HTML, CSS, JavaScript  
+- **Frameworks:** Flask, FastAPI (learning React too!)  
+- **Database:** SQLite, MySQL  
+- **Tools:** Git, VS Code, Figma, Jupyter Notebook  
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/injury-risk-prediction.git
+---
+
+## 📜 Certifications
+- 🐍 *Introduction to Programming Using Python* — **GoMyCode**
+
+---
+
+## 🌱 Currently Learning
+- Machine Learning & Data Science basics  
+- Building and deploying small AI-powered web apps  
+- Strengthening my backend development skills  
+
+---
+
+## 💡 Fun Fact
+I love turning creative ideas into working prototypes — even small ones that solve simple problems.
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: [www.linkedin.com/in/adem-srasra-40129238a]  
+- 🧑‍💻 GitHub: [@ROUGE-FTW](https://github.com/ROUGE-FTW)  
+- ✉️ Email: *(ADAMFORWORK19@GMAIL.COM)*  
+
+---
+
+> “Learning every day — building the future one project at a time.” ✨
